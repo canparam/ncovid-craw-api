@@ -10,3 +10,6 @@
 <span>localhost/api/nc/{id}</span>
 exam
 <p style="color:green">localhost/api/nc/Bắc Ninh</p>
+<h3 style="color:red">CRAW DATA NÀY CŨ RỒI KO SÀI ĐC NỮA </h3>
+
+
